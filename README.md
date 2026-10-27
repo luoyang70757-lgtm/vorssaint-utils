@@ -8,6 +8,10 @@
 <h1 align="center">Vorssaint</h1>
 
 <p align="center">
+  <a href="README.md">English</a> · <a href="README.zh-Hans.md">简体中文</a>
+</p>
+
+<p align="center">
   One menu bar icon doing the job of a dozen paid Mac apps.<br>
   Install only what you use.
 </p>
